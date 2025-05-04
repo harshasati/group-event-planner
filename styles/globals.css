@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* globals.css or your main CSS file */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif; /* You can change this to any font you'd like */
+  }
+  
